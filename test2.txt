@@ -4,4 +4,8 @@ aaa
 
 dev
 
-a & b
+<<<<<<< HEAD
+a AND b
+=======
+a and b
+>>>>>>> feature1
