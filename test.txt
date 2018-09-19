@@ -1,7 +1,0 @@
-Git is a distributed version control system.
-Git is a distributed free software.
-肖维东
-
-修改1
-
-修改2
